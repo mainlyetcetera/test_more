@@ -1,1 +1,2 @@
 Now adding text locally to be pushed up to remote
+Adding text remotely to be pulled locally
